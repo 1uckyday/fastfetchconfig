@@ -1,3 +1,4 @@
 # fastfetch config
 my config for fastfetch
-[img](Screenshot_20250425_122312.png?raw=true "Optional Title")[/img]
+![image](https://github.com/user-attachments/assets/c0b640fa-26b5-41e1-ad6b-958751bb44f2)
+
