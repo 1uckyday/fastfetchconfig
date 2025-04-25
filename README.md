@@ -1,3 +1,3 @@
 # fastfetch config
 my config for fastfetch
-[screenshot](/relative/path/to/img.jpg?raw=true "Optional Title")
+[screenshot](Screenshot_20250425_122312.png?raw=true "Optional Title")
