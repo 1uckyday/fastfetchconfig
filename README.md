@@ -27,5 +27,6 @@ cd ~/.config/fastfetch
 
 # notes
 
-oh, and the image you can change. or you could set one of the built in ASCII logos that comes with the program.
+oh, and the image you can change
+<br> or you could set one of the built in ASCII logos that comes with the program.
 <br> <br> nerdfonts are required for the icons and arrows
