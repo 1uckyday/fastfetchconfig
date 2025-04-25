@@ -24,3 +24,7 @@ open the file manager and open the config.jsonc
 ```
 cd ~/.config/fastfetch
 ```
+
+#notes
+
+oh, and the image you can change. or you could set one of the built in ASCII logos that comes with the program.
