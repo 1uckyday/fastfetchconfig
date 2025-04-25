@@ -8,7 +8,6 @@ my config for fastfetch
 find the config file:
 
 ```
-cd
-git add
-git commit
+cd ~/.config/fastfetch
+
 ```
