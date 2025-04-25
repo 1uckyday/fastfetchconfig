@@ -19,7 +19,7 @@ cd ~/.config
 mkdir fastfetch
 ```
 open the file manager and open the config.jsonc
-copy and paste my preset:
+<br>copy and paste my preset:
 
 ```
 cd ~/.config/fastfetch
