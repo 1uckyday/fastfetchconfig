@@ -8,13 +8,5 @@ my config for fastfetch
 find the config file:
 
 ```
-cd ~/.config/fastfetch
-```
-
-if the fastfetch config folder doesn't exist already, make one:
-
-```
 cd ~/.config
-
-mkdir fastfetch
 ```
