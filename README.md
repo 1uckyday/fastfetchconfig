@@ -9,5 +9,4 @@ find the config file:
 
 ```
 cd ~/.config/fastfetch
-
 ```
